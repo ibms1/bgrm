@@ -97,7 +97,7 @@ def main():
     st.markdown("---")
     st.markdown("""
         <div style='text-align: center; color: #666;'>
-            Made with ❤️ using Streamlit and rembg
+            Made with ❤️ EASYKW
             <br>
             Upload limit: 200MB per image
         </div>
